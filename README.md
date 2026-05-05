@@ -40,6 +40,8 @@ ve tüm yapıyı uçtan uca çalışır hale getirmektir.
 
 ## 🌐 Ağ Topolojisi
 
+[Network Topology](topology.png)
+
 Bu topolojide:
 
 * Farklı büyüklükte VLAN’lar oluşturulmuştur

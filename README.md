@@ -40,7 +40,9 @@ ve tüm yapıyı uçtan uca çalışır hale getirmektir.
 
 ## 🌐 Ağ Topolojisi
 
-[Network Topology](topology.png)
+<p align="center">
+  <img src="./topology.png" width="800"/>
+</p>
 
 Bu topolojide:
 
